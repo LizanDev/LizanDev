@@ -34,9 +34,12 @@
 - 🔐 **Seguridad desde el inicio**: Variables de entorno, buenas prácticas
 - 📦 **Entregables completos**: Desde código hasta ejecutables listos para usar
 
-## Estadísticas
+## Resumen de Perfil 🛠️
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LizanDev&show_icons=true&theme=github-light)](https://github.com/anuraghazra/github-readme-stats)
+![Métricas de LizanDev](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python)
+![Métricas de LizanDev](https://img.shields.io/badge/Security-Certified-green?style=flat-square&logo=googlecloud)
+![Métricas de LizanDev](https://img.shields.io/github/stars/LizanDev?style=flat-square&color=yellow)
+![Métricas de LizanDev](https://img.shields.io/github/commit-activity/m/LizanDev?style=flat-square&color=orange)
 
 ## ¡Hablemos! 📫
 
