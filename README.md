@@ -47,10 +47,5 @@
 - **Máster en Ciberseguridad** — DigiTechFP · 2025–presente
 - **CFGS Desarrollo de Aplicaciones Multiplataforma** — Alfonso X el Sabio · 2023–2025
 - **Google Cybersecurity Certificate** — Coursera · 2024
-<p align="center">
-  <a href="https://linkedin.com/in/lizandev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://portfolio-antonio-lizan-blue-moon.reflex.run"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:antoniolizan.vlc@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
 
 ---
