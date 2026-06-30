@@ -1,12 +1,17 @@
 <h1 align="center">Antonio Lizan · Python Backend Developer</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Python+Backend+Developer;FastAPI+%7C+Django+REST+%7C+PySpark;CI%2FCD+%7C+Docker+%7C+PostgreSQL;Proyectos+reales+en+producción" alt="Typing SVG" />
-</p>
+<h3 align="center">⚡ Python · FastAPI · Django REST · PySpark · PostgreSQL · Docker · CI/CD ⚡</h3>
+
 <p align="center">
   Desarrollador Python con proyectos reales en producción.<br/>
-  Transición desde +14 años en industria → backend, APIs y datos con IA.<br/>
+  Transición desde 8 años en industria → backend, APIs y datos con IA.<br/>
   Máster en Ciberseguridad en curso · Disponible para incorporación inmediata.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/lizandev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://portfolio-antonio-lizan-blue-moon.reflex.run"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:antoniolizan.vlc@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -32,20 +37,16 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Formación
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LizanDev&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizanDev&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
+- **Máster en Ciberseguridad** — DigiTechFP · 2025–presente
+- **CFGS Desarrollo de Aplicaciones Multiplataforma** — Alfonso X el Sabio · 2023–2025
+- **Google Cybersecurity Certificate** — Coursera · 2024
 <p align="center">
   <a href="https://linkedin.com/in/lizandev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://portfolio-antonio-lizan-blue-moon.reflex.run"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
