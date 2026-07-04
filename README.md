@@ -44,7 +44,6 @@
 
 ## 🎓 Formación
 
-- **Máster en Ciberseguridad** — DigiTechFP · 2025–presente
 - **CFGS Desarrollo de Aplicaciones Multiplataforma** — Alfonso X el Sabio · 2023–2025
 - **Google Cybersecurity Certificate** — Coursera · 2024
 
